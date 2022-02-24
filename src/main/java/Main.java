@@ -7,7 +7,6 @@ public class Main {
         Calculator calculator = new Calculator();
         System.out.println("Welcome to the calculator!");
         System.out.println("Enter a command:");
-
         Scanner scanner = new Scanner(System.in);
         int num1 = 0;
         int num2 = 0;
