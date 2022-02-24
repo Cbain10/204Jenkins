@@ -1,4 +1,5 @@
 pipeline {
+
     environment {
         registry = "cbain10/calcjenkins"
         registryCredential = 'dockerhub'
