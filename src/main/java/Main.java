@@ -35,6 +35,7 @@ public class Main {
                     System.out.println(calculator.multiply(num1, num2));
                 }
             }
+            command = scanner.next();
         }
     }
 
